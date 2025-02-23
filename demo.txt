@@ -1,0 +1,11 @@
+Hello ,I am Tasnia .
+I am an undergraduate student in Software Engineering at the Daffodil International University .
+I am now in 8th  semister.
+I love coding.
+### r=open for reading(default)
+## w=open for writing,truncating the file first (Overwriting existing file)
+## x= create a new file and open it for writing
+## a= open for writing,appending to the file if it exists(add at the end)
+## b= binary mode
+## t= text mode(default)
+## += open a disk file for updating (reading and writing)
